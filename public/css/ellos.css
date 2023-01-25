@@ -1,0 +1,19 @@
+body{
+background: rgb(249, 248, 248);
+}
+
+.cerediv{
+    width: 60%;
+    margin: auto;
+}
+
+.cerediv path{
+    fill: black;
+    stroke: rgb(0, 119, 255);
+    stroke-width: 2px;
+
+}   
+
+.cerediv :hover{
+    
+}
